@@ -7,7 +7,7 @@ In this Project, we gather data from a variety of sources and in a variety of fo
 ## Data Gathering
 
 The dataset that we are wrangling is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
-.
+
 The dataset that we are wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 
    * Twitter archive file: the twitter_archive_enhanced.csv was provided by Udacity and downloaded manually.
